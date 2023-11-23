@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "parcel": "^2.10.2"
+  },
+  "name": "world_of_movies",
+  "version": "1.0.0",
+  "description": "Movie app",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html" 
+  },
+  "author": "Damian Zięba",
+  "license": "ISC"
+}
